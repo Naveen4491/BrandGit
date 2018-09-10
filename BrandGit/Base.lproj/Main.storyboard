@@ -34,4 +34,7 @@
             <point key="canvasLocation" x="117.59999999999999" y="117.39130434782609"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="newbackground" width="333" height="311"/>
+    </resources>
 </document>
